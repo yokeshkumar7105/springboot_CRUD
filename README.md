@@ -54,9 +54,38 @@ This repository contains the hands-on files of basic CRUD operations* done using
 
 ✅Controller maintains the path and gets request while service satisfies the request.
 
-
-
-
+## 📍File Structure
+```├── .gitattributes
+├── .gitignore
+├── .mvn
+    └── wrapper
+    │   └── maven-wrapper.properties
+├── README.md
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+└── src
+    ├── main
+        ├── java
+        │   └── com
+        │   │   └── example
+        │   │       └── httpmethods
+        │   │           ├── HttpmethodsApplication.java
+        │   │           ├── controller
+        │   │               └── StudentController.java
+        │   │           ├── model
+        │   │               └── Student.java
+        │   │           └── service
+        │   │               └── StudentService.java
+        └── resources
+        │   └── application.properties
+    └── test
+        └── java
+            └── com
+                └── example
+                    └── httpmethods
+                        └── HttpmethodsApplicationTests.java
+```
 
 <i>*This project is solely intended for learning and understanding CRUD concepts in Spring Boot and is not meant for real-world usage.</i>
 
