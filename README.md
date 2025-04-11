@@ -9,7 +9,7 @@
 
 ### D &#8594; DELETE &#8594; DELETE
 
-This repository contains the hands-on files of basic CRUD operations done using springboot. The code gives the detailed view on how <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations work.
+This repository contains the hands-on files of basic CRUD operations* done using springboot. The code gives the detailed view on how <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations work.
 
 ## 📍CRUD and its Operations
 <table>
@@ -46,10 +46,19 @@ This repository contains the hands-on files of basic CRUD operations done using 
 
 ## 📍Example used in this repo
 
-✅StudentController get the request and sends the request to StudentService to process. 
+✅StudentController get the request from client(eg: Postman) and sends the request to StudentService to process. 
 
 ✅StudentService uses business logic to process and returns to controller. 
 
+✅Here, the request and response is done through JSON format.
+
+✅Controller maintains the path and gets request while service satisfies the request.
+
+
+
+
+
+<i>*This project is solely intended for learning and understanding CRUD concepts in Spring Boot and is not meant for real-world usage.</i>
 
 
 
