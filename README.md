@@ -1,13 +1,15 @@
 ## 🍃Springboot CRUD Operations
 
-C &#8594; CREATE
 
-R &#8594; READ
+### C &#8594; CREATE &#8594; POST
 
-U &#8594; UPDATE
+### R &#8594; READ &#8594; GET
 
-D &#8594; DELETE
+### U &#8594; UPDATE &#8594; PUT
 
-<p> This repository contains the hands-on files of basic CRUD operations done using springboot. The code gives the detailed view on how <b>GET</b>, POST, PUT and DELETE methods 
+### D &#8594; DELETE &#8594; DELETE
 
-</p>
+This repository contains the hands-on files of basic CRUD operations done using springboot. The code gives the detailed view on how <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations work.
+
+
+
