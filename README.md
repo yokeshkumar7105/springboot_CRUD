@@ -5,7 +5,7 @@
 
 ### R &#8594; READ &#8594; GET
 
-### U &#8594; UPDATE &#8594; PUT
+### U &#8594; UPDATE &#8594; PUT 
 
 ### D &#8594; DELETE &#8594; DELETE
 
