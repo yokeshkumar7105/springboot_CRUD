@@ -9,7 +9,7 @@
 
 ### D &#8594; DELETE &#8594; DELETE
 
-This repository contains the hands-on files of basic CRUD operations* done using springboot. The code gives the detailed view on how <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations work.
+This repository contains the hands-on files of basic CRUD operations* done using springboot. The code gives the detailed view on how <b>GET</b>, <b>POST</b>, <b>PUT</b> and <b>DELETE</b> operations work. This repo contains the code with logic bound by static data. All the business logics given in service class is bound by static data.
 
 ## 📍CRUD and its Operations
 <table>
